@@ -1,0 +1,48 @@
+/*
+.hero.is-halfheight {
+  min-height: 50vh;
+}
+
+.hero .hero-body {
+  align-self: center;
+  text-align: center;
+  max-width: 95%;
+  width: 550px;
+}
+
+.actual-body, body, html {
+  background-color: #f5f5f5;
+}
+
+body .actual-body {
+  min-height: 100vh;
+  padding-bottom: 15em;
+}
+
+section:not(:last-child) {
+  margin-bottom: 2.5em;
+}
+.profile {
+  text-align: -webkit-center;
+  text-align: -moz-center;
+  text-align: center;
+  display: flex;
+}
+
+.profile .avatar {
+  width: 100%;
+}
+
+.profile .avatar img {
+  transition-property: border-radius;
+  transition-duration: 0.2s;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+  border-radius: 100%;
+  width: 128px;
+}
+
+.profile .avatar img:hover {
+  border-radius: 8px;
+}
+*/
